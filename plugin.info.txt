@@ -1,7 +1,7 @@
 base   structjoin
 author Szymon Olewniczak
 email  it@rid.pl
-date   2019-03-22
+date   2019-03-26
 name   structjoin plugin
 desc   Introduces new struct type that allows perform inner joins between schemas
 url    https://www.dokuwiki.org/plugin:structjoin
